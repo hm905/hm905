@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: Mr
 - ⚡ Fun fact: queit at first, moisy at last
 hi
+## About Me
+
+I am currently studying Health Data Science.
+I am learning Git and GitHub.
+I enjoy golf and football.
